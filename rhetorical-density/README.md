@@ -9,7 +9,7 @@ The purpose of this archive is to timestamp and preserve the original formulatio
 * Extracted source code.
 
 ## Citation
-DOI: TBC
+DOI: https://doi.org/10.5281/zenodo.17694020
 
 ## License
 All rights reserved.
